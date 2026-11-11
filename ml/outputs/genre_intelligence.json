@@ -1,0 +1,255 @@
+{
+  "genres": {
+    "Pop": {
+      "track_count": 420,
+      "avg_popularity": 87.8,
+      "median_popularity": 89.0,
+      "hit_rate_pct": 97.1,
+      "features": {
+        "danceability": 0.715,
+        "energy": 0.738,
+        "loudness": -2.168,
+        "tempo": 118.956,
+        "acousticness": 0.266,
+        "instrumentalness": 0.02,
+        "speechiness": 0.082,
+        "valence": 0.644
+      }
+    },
+    "Hip-Hop": {
+      "track_count": 420,
+      "avg_popularity": 85.4,
+      "median_popularity": 86.0,
+      "hit_rate_pct": 92.9,
+      "features": {
+        "danceability": 0.768,
+        "energy": 0.676,
+        "loudness": -2.509,
+        "tempo": 133.607,
+        "acousticness": 0.225,
+        "instrumentalness": 0.009,
+        "speechiness": 0.249,
+        "valence": 0.56
+      }
+    },
+    "Electronic": {
+      "track_count": 420,
+      "avg_popularity": 76.6,
+      "median_popularity": 76.0,
+      "hit_rate_pct": 71.2,
+      "features": {
+        "danceability": 0.743,
+        "energy": 0.837,
+        "loudness": -1.778,
+        "tempo": 126.265,
+        "acousticness": 0.137,
+        "instrumentalness": 0.406,
+        "speechiness": 0.071,
+        "valence": 0.526
+      }
+    },
+    "Rock": {
+      "track_count": 420,
+      "avg_popularity": 68.4,
+      "median_popularity": 69.0,
+      "hit_rate_pct": 48.3,
+      "features": {
+        "danceability": 0.521,
+        "energy": 0.81,
+        "loudness": -2.372,
+        "tempo": 123.848,
+        "acousticness": 0.193,
+        "instrumentalness": 0.184,
+        "speechiness": 0.056,
+        "valence": 0.54
+      }
+    },
+    "R&B": {
+      "track_count": 420,
+      "avg_popularity": 74.6,
+      "median_popularity": 74.0,
+      "hit_rate_pct": 66.7,
+      "features": {
+        "danceability": 0.676,
+        "energy": 0.573,
+        "loudness": -2.955,
+        "tempo": 111.761,
+        "acousticness": 0.347,
+        "instrumentalness": 0.03,
+        "speechiness": 0.112,
+        "valence": 0.577
+      }
+    },
+    "Latin": {
+      "track_count": 420,
+      "avg_popularity": 92.1,
+      "median_popularity": 95.0,
+      "hit_rate_pct": 97.9,
+      "features": {
+        "danceability": 0.794,
+        "energy": 0.787,
+        "loudness": -1.974,
+        "tempo": 103.692,
+        "acousticness": 0.278,
+        "instrumentalness": 0.01,
+        "speechiness": 0.089,
+        "valence": 0.75
+      }
+    },
+    "Indie": {
+      "track_count": 420,
+      "avg_popularity": 56.1,
+      "median_popularity": 56.0,
+      "hit_rate_pct": 12.1,
+      "features": {
+        "danceability": 0.59,
+        "energy": 0.608,
+        "loudness": -3.681,
+        "tempo": 118.429,
+        "acousticness": 0.477,
+        "instrumentalness": 0.151,
+        "speechiness": 0.053,
+        "valence": 0.452
+      }
+    },
+    "Classical": {
+      "track_count": 420,
+      "avg_popularity": 1.1,
+      "median_popularity": 0.0,
+      "hit_rate_pct": 0.0,
+      "features": {
+        "danceability": 0.279,
+        "energy": 0.221,
+        "loudness": -14.858,
+        "tempo": 93.322,
+        "acousticness": 0.939,
+        "instrumentalness": 0.589,
+        "speechiness": 0.045,
+        "valence": 0.269
+      }
+    },
+    "Jazz": {
+      "track_count": 420,
+      "avg_popularity": 26.9,
+      "median_popularity": 28.0,
+      "hit_rate_pct": 0.0,
+      "features": {
+        "danceability": 0.546,
+        "energy": 0.459,
+        "loudness": -7.134,
+        "tempo": 113.82,
+        "acousticness": 0.766,
+        "instrumentalness": 0.487,
+        "speechiness": 0.06,
+        "valence": 0.499
+      }
+    },
+    "Country": {
+      "track_count": 420,
+      "avg_popularity": 68.9,
+      "median_popularity": 70.0,
+      "hit_rate_pct": 50.2,
+      "features": {
+        "danceability": 0.621,
+        "energy": 0.649,
+        "loudness": -2.762,
+        "tempo": 116.585,
+        "acousticness": 0.44,
+        "instrumentalness": 0.022,
+        "speechiness": 0.045,
+        "valence": 0.613
+      }
+    }
+  },
+  "clusters": [
+    {
+      "cluster_id": 0,
+      "name": "High-Energy Dance / Pop Anthem",
+      "track_count": 508,
+      "avg_popularity": 84.9,
+      "hit_rate_pct": 91.9,
+      "dominant_genres": {
+        "Hip-Hop": 416,
+        "R&B": 39,
+        "Pop": 25
+      },
+      "feature_profile": {
+        "danceability": 0.768,
+        "energy": 0.671,
+        "loudness": -2.41,
+        "tempo": 134.192,
+        "acousticness": 0.23,
+        "instrumentalness": 0.016,
+        "speechiness": 0.232,
+        "valence": 0.568
+      }
+    },
+    {
+      "cluster_id": 1,
+      "name": "Acoustic Ballad & Singer-Songwriter",
+      "track_count": 689,
+      "avg_popularity": 9.1,
+      "hit_rate_pct": 0.0,
+      "dominant_genres": {
+        "Classical": 420,
+        "Jazz": 265,
+        "Indie": 3
+      },
+      "feature_profile": {
+        "danceability": 0.376,
+        "energy": 0.304,
+        "loudness": -12.159,
+        "tempo": 100.136,
+        "acousticness": 0.881,
+        "instrumentalness": 0.592,
+        "speechiness": 0.05,
+        "valence": 0.348
+      }
+    },
+    {
+      "cluster_id": 2,
+      "name": "Noisy Instrumental & Rock",
+      "track_count": 1401,
+      "avg_popularity": 80.9,
+      "hit_rate_pct": 77.1,
+      "dominant_genres": {
+        "Latin": 401,
+        "Pop": 274,
+        "R&B": 236
+      },
+      "feature_profile": {
+        "danceability": 0.716,
+        "energy": 0.714,
+        "loudness": -2.447,
+        "tempo": 105.32,
+        "acousticness": 0.316,
+        "instrumentalness": 0.05,
+        "speechiness": 0.08,
+        "valence": 0.694
+      }
+    },
+    {
+      "cluster_id": 3,
+      "name": "Chill Ambient & Electronic Lo-Fi",
+      "track_count": 1602,
+      "avg_popularity": 65.6,
+      "hit_rate_pct": 44.1,
+      "dominant_genres": {
+        "Indie": 349,
+        "Rock": 333,
+        "Electronic": 307
+      },
+      "feature_profile": {
+        "danceability": 0.607,
+        "energy": 0.698,
+        "loudness": -2.928,
+        "tempo": 126.469,
+        "acousticness": 0.338,
+        "instrumentalness": 0.196,
+        "speechiness": 0.061,
+        "valence": 0.487
+      }
+    }
+  ],
+  "top_genre_by_popularity": "Latin"
+}

@@ -1,0 +1,23 @@
+{
+  "base_value": 63.18,
+  "global_importance": {
+    "acousticness": 12.3143,
+    "danceability": 5.9323,
+    "instrumentalness": 4.9711,
+    "energy": 3.4288,
+    "loudness": 3.1097,
+    "valence": 1.2927,
+    "tempo": 0.3404,
+    "speechiness": 0.2059
+  },
+  "feature_order": [
+    "danceability",
+    "energy",
+    "loudness",
+    "tempo",
+    "acousticness",
+    "instrumentalness",
+    "speechiness",
+    "valence"
+  ]
+}

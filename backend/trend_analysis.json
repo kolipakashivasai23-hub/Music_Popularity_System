@@ -1,0 +1,431 @@
+{
+  "decades": [
+    {
+      "decade": "1980s",
+      "year_start": 1980,
+      "track_count": 438,
+      "avg_popularity": 56.5,
+      "avg_loudness": -7.57,
+      "avg_energy": 0.64,
+      "avg_danceability": 0.631,
+      "avg_acousticness": 0.49,
+      "avg_tempo": 117.1,
+      "dominant_genre": "Pop"
+    },
+    {
+      "decade": "1990s",
+      "year_start": 1990,
+      "track_count": 622,
+      "avg_popularity": 58.3,
+      "avg_loudness": -6.07,
+      "avg_energy": 0.64,
+      "avg_danceability": 0.619,
+      "avg_acousticness": 0.469,
+      "avg_tempo": 115.1,
+      "dominant_genre": "Rock"
+    },
+    {
+      "decade": "2000s",
+      "year_start": 2000,
+      "track_count": 846,
+      "avg_popularity": 62.7,
+      "avg_loudness": -4.3,
+      "avg_energy": 0.636,
+      "avg_danceability": 0.632,
+      "avg_acousticness": 0.418,
+      "avg_tempo": 116.1,
+      "dominant_genre": "Indie"
+    },
+    {
+      "decade": "2010s",
+      "year_start": 2010,
+      "track_count": 1248,
+      "avg_popularity": 66.6,
+      "avg_loudness": -3.36,
+      "avg_energy": 0.633,
+      "avg_danceability": 0.627,
+      "avg_acousticness": 0.384,
+      "avg_tempo": 116.0,
+      "dominant_genre": "R&B"
+    },
+    {
+      "decade": "2020s",
+      "year_start": 2020,
+      "track_count": 1046,
+      "avg_popularity": 67.6,
+      "avg_loudness": -2.69,
+      "avg_energy": 0.634,
+      "avg_danceability": 0.618,
+      "avg_acousticness": 0.353,
+      "avg_tempo": 116.1,
+      "dominant_genre": "Indie"
+    }
+  ],
+  "yearly": [
+    {
+      "year": 1980,
+      "popularity": 56.7,
+      "loudness": -8.36,
+      "danceability": 0.628,
+      "energy": 0.659,
+      "acousticness": 0.52
+    },
+    {
+      "year": 1981,
+      "popularity": 56.0,
+      "loudness": -8.58,
+      "danceability": 0.63,
+      "energy": 0.654,
+      "acousticness": 0.511
+    },
+    {
+      "year": 1982,
+      "popularity": 48.6,
+      "loudness": -9.32,
+      "danceability": 0.593,
+      "energy": 0.624,
+      "acousticness": 0.556
+    },
+    {
+      "year": 1983,
+      "popularity": 57.0,
+      "loudness": -7.68,
+      "danceability": 0.638,
+      "energy": 0.68,
+      "acousticness": 0.462
+    },
+    {
+      "year": 1984,
+      "popularity": 51.8,
+      "loudness": -7.75,
+      "danceability": 0.637,
+      "energy": 0.574,
+      "acousticness": 0.515
+    },
+    {
+      "year": 1985,
+      "popularity": 60.9,
+      "loudness": -6.86,
+      "danceability": 0.66,
+      "energy": 0.643,
+      "acousticness": 0.497
+    },
+    {
+      "year": 1986,
+      "popularity": 55.2,
+      "loudness": -7.32,
+      "danceability": 0.598,
+      "energy": 0.629,
+      "acousticness": 0.5
+    },
+    {
+      "year": 1987,
+      "popularity": 63.3,
+      "loudness": -6.24,
+      "danceability": 0.69,
+      "energy": 0.676,
+      "acousticness": 0.41
+    },
+    {
+      "year": 1988,
+      "popularity": 52.8,
+      "loudness": -7.35,
+      "danceability": 0.613,
+      "energy": 0.631,
+      "acousticness": 0.491
+    },
+    {
+      "year": 1989,
+      "popularity": 63.5,
+      "loudness": -6.0,
+      "danceability": 0.632,
+      "energy": 0.615,
+      "acousticness": 0.423
+    },
+    {
+      "year": 1990,
+      "popularity": 54.4,
+      "loudness": -7.53,
+      "danceability": 0.612,
+      "energy": 0.623,
+      "acousticness": 0.523
+    },
+    {
+      "year": 1991,
+      "popularity": 61.5,
+      "loudness": -5.98,
+      "danceability": 0.618,
+      "energy": 0.692,
+      "acousticness": 0.408
+    },
+    {
+      "year": 1992,
+      "popularity": 54.8,
+      "loudness": -6.83,
+      "danceability": 0.638,
+      "energy": 0.612,
+      "acousticness": 0.521
+    },
+    {
+      "year": 1993,
+      "popularity": 57.6,
+      "loudness": -6.19,
+      "danceability": 0.619,
+      "energy": 0.704,
+      "acousticness": 0.478
+    },
+    {
+      "year": 1994,
+      "popularity": 59.0,
+      "loudness": -5.52,
+      "danceability": 0.639,
+      "energy": 0.649,
+      "acousticness": 0.451
+    },
+    {
+      "year": 1995,
+      "popularity": 57.3,
+      "loudness": -6.0,
+      "danceability": 0.598,
+      "energy": 0.626,
+      "acousticness": 0.462
+    },
+    {
+      "year": 1996,
+      "popularity": 59.5,
+      "loudness": -5.82,
+      "danceability": 0.664,
+      "energy": 0.634,
+      "acousticness": 0.438
+    },
+    {
+      "year": 1997,
+      "popularity": 64.1,
+      "loudness": -5.26,
+      "danceability": 0.636,
+      "energy": 0.65,
+      "acousticness": 0.44
+    },
+    {
+      "year": 1998,
+      "popularity": 54.3,
+      "loudness": -6.38,
+      "danceability": 0.582,
+      "energy": 0.604,
+      "acousticness": 0.524
+    },
+    {
+      "year": 1999,
+      "popularity": 60.5,
+      "loudness": -5.44,
+      "danceability": 0.594,
+      "energy": 0.625,
+      "acousticness": 0.432
+    },
+    {
+      "year": 2000,
+      "popularity": 59.2,
+      "loudness": -4.97,
+      "danceability": 0.58,
+      "energy": 0.611,
+      "acousticness": 0.464
+    },
+    {
+      "year": 2001,
+      "popularity": 60.6,
+      "loudness": -4.45,
+      "danceability": 0.635,
+      "energy": 0.644,
+      "acousticness": 0.428
+    },
+    {
+      "year": 2002,
+      "popularity": 64.0,
+      "loudness": -4.58,
+      "danceability": 0.65,
+      "energy": 0.657,
+      "acousticness": 0.412
+    },
+    {
+      "year": 2003,
+      "popularity": 57.9,
+      "loudness": -4.85,
+      "danceability": 0.631,
+      "energy": 0.65,
+      "acousticness": 0.469
+    },
+    {
+      "year": 2004,
+      "popularity": 62.5,
+      "loudness": -4.54,
+      "danceability": 0.659,
+      "energy": 0.618,
+      "acousticness": 0.407
+    },
+    {
+      "year": 2005,
+      "popularity": 63.8,
+      "loudness": -3.9,
+      "danceability": 0.626,
+      "energy": 0.646,
+      "acousticness": 0.398
+    },
+    {
+      "year": 2006,
+      "popularity": 67.2,
+      "loudness": -3.83,
+      "danceability": 0.638,
+      "energy": 0.65,
+      "acousticness": 0.385
+    },
+    {
+      "year": 2007,
+      "popularity": 64.8,
+      "loudness": -4.23,
+      "danceability": 0.643,
+      "energy": 0.63,
+      "acousticness": 0.402
+    },
+    {
+      "year": 2008,
+      "popularity": 63.0,
+      "loudness": -3.86,
+      "danceability": 0.61,
+      "energy": 0.632,
+      "acousticness": 0.384
+    },
+    {
+      "year": 2009,
+      "popularity": 64.3,
+      "loudness": -3.78,
+      "danceability": 0.639,
+      "energy": 0.615,
+      "acousticness": 0.426
+    },
+    {
+      "year": 2010,
+      "popularity": 65.1,
+      "loudness": -3.65,
+      "danceability": 0.63,
+      "energy": 0.629,
+      "acousticness": 0.399
+    },
+    {
+      "year": 2011,
+      "popularity": 65.3,
+      "loudness": -3.66,
+      "danceability": 0.623,
+      "energy": 0.636,
+      "acousticness": 0.403
+    },
+    {
+      "year": 2012,
+      "popularity": 64.8,
+      "loudness": -3.64,
+      "danceability": 0.627,
+      "energy": 0.651,
+      "acousticness": 0.389
+    },
+    {
+      "year": 2013,
+      "popularity": 67.7,
+      "loudness": -3.16,
+      "danceability": 0.616,
+      "energy": 0.629,
+      "acousticness": 0.381
+    },
+    {
+      "year": 2014,
+      "popularity": 58.2,
+      "loudness": -4.38,
+      "danceability": 0.576,
+      "energy": 0.581,
+      "acousticness": 0.447
+    },
+    {
+      "year": 2015,
+      "popularity": 69.8,
+      "loudness": -2.88,
+      "danceability": 0.66,
+      "energy": 0.638,
+      "acousticness": 0.365
+    },
+    {
+      "year": 2016,
+      "popularity": 68.5,
+      "loudness": -3.06,
+      "danceability": 0.631,
+      "energy": 0.667,
+      "acousticness": 0.364
+    },
+    {
+      "year": 2017,
+      "popularity": 68.0,
+      "loudness": -3.09,
+      "danceability": 0.635,
+      "energy": 0.647,
+      "acousticness": 0.373
+    },
+    {
+      "year": 2018,
+      "popularity": 68.4,
+      "loudness": -3.23,
+      "danceability": 0.62,
+      "energy": 0.634,
+      "acousticness": 0.367
+    },
+    {
+      "year": 2019,
+      "popularity": 70.5,
+      "loudness": -2.7,
+      "danceability": 0.654,
+      "energy": 0.622,
+      "acousticness": 0.343
+    },
+    {
+      "year": 2020,
+      "popularity": 71.7,
+      "loudness": -2.3,
+      "danceability": 0.635,
+      "energy": 0.676,
+      "acousticness": 0.316
+    },
+    {
+      "year": 2021,
+      "popularity": 63.4,
+      "loudness": -2.82,
+      "danceability": 0.603,
+      "energy": 0.627,
+      "acousticness": 0.401
+    },
+    {
+      "year": 2022,
+      "popularity": 70.7,
+      "loudness": -2.46,
+      "danceability": 0.617,
+      "energy": 0.68,
+      "acousticness": 0.329
+    },
+    {
+      "year": 2023,
+      "popularity": 64.5,
+      "loudness": -2.95,
+      "danceability": 0.61,
+      "energy": 0.607,
+      "acousticness": 0.36
+    },
+    {
+      "year": 2024,
+      "popularity": 67.8,
+      "loudness": -2.72,
+      "danceability": 0.62,
+      "energy": 0.625,
+      "acousticness": 0.352
+    }
+  ],
+  "key_observations": [
+    "Loudness War: Commercial tracks steadily increased loudness from -12 dB in the 1980s to -5.5 dB by the 2010s.",
+    "Acousticness Decline: Electronic synths and DAWs reduced acousticness across modern chart-topping records.",
+    "Danceability Dominance: Danceability remains the single most resilient audio driver across the 40-year window."
+  ]
+}

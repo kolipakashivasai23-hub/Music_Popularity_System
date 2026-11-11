@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Telugu YouTube Embed Verifier</title>
+  <style>
+    body { background: #0f172a; color: white; font-family: sans-serif; padding: 20px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+    .card { background: #1e293b; padding: 12px; border-radius: 12px; border: 1px solid #334155; }
+    h3 { margin: 0 0 8px 0; font-size: 13px; font-weight: bold; color: #38bdf8; }
+    iframe { width: 100%; height: 160px; border: none; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <h2>Telugu YouTube Embed Verifier</h2>
+  <div class="grid" id="container"></div>
+
+  <script>
+    const candidates = [
+      { name: "1. Inkem Inkem (Geetha Govindam)", id: "82p3_n-z9s0" },
+      { name: "2. Samajavaragamana (Single)", id: "284WkKqJ968" },
+      { name: "3. Ramuloo Ramulaa (Lyrical)", id: "z82yK9dF72k" },
+      { name: "4. Saranga Dariya", id: "Q82WkK-q8_0" },
+      { name: "5. Master Chitti Babu", id: "Y2n3uX4x190" },
+      { name: "6. Bullet Song (Warriorr)", id: "t9y8n3x9110" },
+      { name: "7. Oo Antava (Pushpa)", id: "u_wB6byrl5k" },
+      { name: "8. DJ Tillu Title Song", id: "hV9z3sH1g80" }
+    ];
+
+    const container = document.getElementById('container');
+    candidates.forEach(c => {
+      const div = document.createElement('div');
+      div.className = 'card';
+      div.innerHTML = `<h3>${c.name} [${c.id}]</h3>
+        <iframe src="https://www.youtube.com/embed/${c.id}?start=30&end=45" allow="autoplay; encrypted-media"></iframe>`;
+      container.appendChild(div);
+    });
+  </script>
+</body>
+</html>
